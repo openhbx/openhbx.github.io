@@ -1,0 +1,36 @@
+{% if page.sidebar == "home_sidebar" %}
+{% assign sidebar = site.data.sidebars.home_sidebar.entries %}
+
+{% elsif page.sidebar == "enroll_app_sidebar" %}
+{% assign sidebar = site.data.sidebars.enroll_app_sidebar.entries %}
+
+{% elsif page.sidebar == "hix_app_sidebar" %}
+{% assign sidebar = site.data.sidebars.hix_app_sidebar.entries %}
+
+{% elsif page.sidebar == "api_sidebar" %}
+{% assign sidebar = site.data.sidebars.api_sidebar.entries %}
+
+{% elsif page.sidebar == "news_sidebar" %}
+{% assign sidebar = site.data.sidebars.news_sidebar.entries %}
+
+{% else %}
+{% assign sidebar = site.data.sidebars.home_sidebar.entries %}
+{% endif %}
+
+
+
+{% comment %}
+sidebar configuration for print files
+{% endcomment %}
+
+{% if site.product == "cv" %}
+{% assign sidebar_pdf = site.data.sidebars.api_sidebar.entries %}
+{% endif %}
+
+{% if site.product == "hix_app" %}
+{% assign sidebar_pdf = site.data.sidebars.hix_app_sidebar.entries %}
+{% endif %}
+
+{% if site.product == "enroll_app" %}
+{% assign sidebar_pdf = site.data.sidebars.enroll_app_sidebar.entries %}
+{% endif %}

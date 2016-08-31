@@ -1,0 +1,25 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: Resources
+    output: web
+    folderitems:
+    - title: Enroll App
+      url: /ea_landing_page.html
+      output: web
+    - title: HIX App
+      url: /hix_landing_page.html
+      output: web
+    - title: ACApi
+      url: /api_landing_page.html
+      output: web
+    - title: News
+      url: /news.html
+      output: web
+    - title: Theme instructions
+      url: /mydoc_introduction.html
+      output: web
