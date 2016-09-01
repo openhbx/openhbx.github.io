@@ -10,6 +10,12 @@
 {% elsif page.sidebar == "api_sidebar" %}
 {% assign sidebar = site.data.sidebars.api_sidebar.entries %}
 
+{% elsif page.sidebar == "ops_sidebar" %}
+{% assign sidebar = site.data.sidebars.ops_sidebar.entries %}
+
+{% elsif page.sidebar == "proc_sidebar" %}
+{% assign sidebar = site.data.sidebars.proc_sidebar.entries %}
+
 {% elsif page.sidebar == "news_sidebar" %}
 {% assign sidebar = site.data.sidebars.news_sidebar.entries %}
 
@@ -23,7 +29,7 @@
 sidebar configuration for print files
 {% endcomment %}
 
-{% if site.product == "cv" %}
+{% if site.product == "acapi" %}
 {% assign sidebar_pdf = site.data.sidebars.api_sidebar.entries %}
 {% endif %}
 
@@ -33,4 +39,12 @@ sidebar configuration for print files
 
 {% if site.product == "enroll_app" %}
 {% assign sidebar_pdf = site.data.sidebars.enroll_app_sidebar.entries %}
+{% endif %}
+
+{% if site.product == "devops" %}
+{% assign sidebar_pdf = site.data.sidebars.ops_sidebar.entries %}
+{% endif %}
+
+{% if site.product == "process" %}
+{% assign sidebar_pdf = site.data.sidebars.proc_sidebar.entries %}
 {% endif %}

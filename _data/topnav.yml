@@ -7,17 +7,31 @@ topnav:
       url: /ea_landing_page.html
     - title: HIX App
       url: /hix_landing_page.html
-    - title: ACApi
+    - title: API
       url: /api_landing_page.html
     - title: DevOps
       url: /ops_landing_page.html
-    - title: Process
-      url: /proc_landing_page.html
+    - title: News
+      url: /news
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Design
+      folderitems:
+      - title: Architecture
+        url: /arch_landing_page.html
+      - title: Information Model
+        url: /arch_info_model_page.html
+      - title: Development Process
+        url: /proc_landing_page.html
 
 - title: Topnav
   items:
-    - title: News
-      url: /news
+    - title: Community
+      external_url: http://www.openhbx.org
+
 
 #Topnav dropdowns
 # topnav_dropdowns:
