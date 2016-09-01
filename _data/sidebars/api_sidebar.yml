@@ -1,9 +1,9 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: sidebar
-  product: ACApi 
-  version: 0.2
+- title: Sidebar
+  product: ACApi
+  version: 0.3
   folders:
 
   - title:
@@ -44,12 +44,12 @@ entries:
       url: /mydoc_support.html
       output: web, pdf
 
-  - title: Release Notes
+  - title: Canonical Vocabulary
     output: web, pdf
     folderitems:
 
-    - title: 6.0 Release notes
-      url: /mydoc_release_notes_60.html
+    - title: About the CV
+      url: /api_about_the_cv.html
       output: web, pdf
 
     - title: 5.0 Release notes

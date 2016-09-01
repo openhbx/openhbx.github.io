@@ -9,11 +9,15 @@ topnav:
       url: /hix_landing_page.html
     - title: ACApi
       url: /api_landing_page.html
+    - title: DevOps
+      url: /ops_landing_page.html
+    - title: Process
+      url: /proc_landing_page.html
 
 - title: Topnav
   items:
     - title: News
-      url: /news.html
+      url: /news
 
 #Topnav dropdowns
 # topnav_dropdowns:

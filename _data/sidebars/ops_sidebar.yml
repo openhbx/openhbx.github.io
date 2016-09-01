@@ -1,9 +1,9 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: sidebar 
-  product: HIX App
-  version: 1.0
+- title: Process
+  product: Process
+  # version: 1.0
   folders:
 
   - title:
@@ -23,11 +23,11 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Overview
-      url: /hix_landing_page.html
+    - title: Overview12
+      url: /ea_landing_page.html
       output: web
 
-  - title: Simple Workflow1212
+  - title: Simple Workflow34
     output: web, pdf
     folderitems:
 
