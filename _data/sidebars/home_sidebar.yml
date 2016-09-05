@@ -5,21 +5,58 @@ entries:
   levels: one
   folders:
 
+  - title: Home
+    output: web, pdf
+    folderitems:
+
+    - title: Overview
+      url: /index.html
+      output: web
+
+    - title: Site Author
+      url: /about_ideacrew.html
+      output: web, pdf
+
+  - title: Development Plan
+    output: web, pdf
+    folderitems:
+
+    - title: 2017 Development Roadmap
+      output: web
+      url: /ea_dev_roadmap_2017.html
+
   - title: Resources
     output: web
     folderitems:
+
     - title: Enroll App
       url: /ea_landing_page.html
       output: web
+
     - title: HIX App
       url: /hix_landing_page.html
       output: web
-    - title: ACApi
+
+    - title: API
       url: /api_landing_page.html
       output: web
+
+    - title: DevOps
+      url: /ops_landing_page.html
+      output: web
+
+    - title: Architecture
+      url: /arch_landing_page.html
+      output: web
+
+    - title: Process
+      url: /proc_landing_page.html
+      output: web
+
     - title: News
       url: /news.html
       output: web
+
     - title: Theme instructions
       url: /mydoc_introduction.html
       output: web

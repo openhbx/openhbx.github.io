@@ -3,7 +3,7 @@
 entries:
 - title: sidebar 
   product: Process
-  version: 
+  version: 0.1
   folders:
 
   - title:
@@ -27,26 +27,68 @@ entries:
       url: /hix_landing_page.html
       output: web
 
-  - title: Crazy Workflow1212
+  - title: Stakeholders as Co-Developers
     output: web, pdf
     folderitems:
 
-    - title: Sample 1
-      url: /p2_sample1.html
+    - title: Development Workflow
+      url: /proc_dev_workflow.html
       output: web, pdf
 
-    - title: Sample 2
-      url: /p2_sample2.html
+    - title: Use Cases 
+      url: /proc_use_cases.html
       output: web, pdf
 
-    - title: Sample 3
-      url: /p2_sample3.html
+    - title: User Stories 
+      url: /proc_user_stories.html
       output: web, pdf
 
-    - title: Sample 4
-      url: /p2_sample4.html
+    - title: Peer Review 
+      url: /proc_peer_review.html
       output: web, pdf
 
-    - title: Sample 5
-      url: /p2_sample5.html
+  - title: Iterative Development
+    output: web, pdf
+    folderitems:
+
+    - title: Lean Process 
+      url: /proc_lean_process.html
       output: web, pdf
+
+    - title: Spiral Development
+      url: /proc_spiral_development.html
+      output: web, pdf
+
+  - title: Build Integrity In
+    output: web, pdf
+    folderitems:
+
+    - title: Behavior Driven Development 
+      url: /proc_bdd.html
+      output: web, pdf
+
+    - title: Automated Regression Tests
+      url: /proc_regression_tests.html
+      output: web, pdf
+
+  - title: Development Workbench
+    output: web, pdf
+    folderitems:
+
+    - title: Feature and Issue Tracking 
+      url: /proc_feature_tracking.html
+      output: web, pdf
+
+    - title: Version Control System 
+      url: /proc_version_control_system.html
+      output: web, pdf
+
+    - title: Continuous Integration
+      url: /proc_continuous_integration.html
+      output: web, pdf
+
+    - title: Development Environments 
+      url: /proc_dev_environments.html
+      output: web, pdf
+
+

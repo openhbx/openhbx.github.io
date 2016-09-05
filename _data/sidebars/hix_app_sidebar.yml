@@ -3,7 +3,7 @@
 entries:
 - title: sidebar 
   product: HIX App
-  version: 1.0
+  version: 0.1
   folders:
 
   - title:
@@ -30,10 +30,6 @@ entries:
   - title: EDI
     output: web, pdf
     folderitems:
-
-    - title: Overview
-      url: /hix_overview.html
-      output: web, pdf
 
     - title: Benefit Enrollment
       url: /hix_benefit_enrollment.html
