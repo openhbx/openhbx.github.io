@@ -87,12 +87,20 @@ entries:
       url: /ea_general_agents.html
       output: web, pdf
 
+    - title: Financial Management
+      url: /ea_financial_management.html
+      output: web, pdf
+
     - title: Employer Group Files
       url: /ea_employer_group_files.html
       output: web, pdf
 
     - title: SHOP Reports
       url: /ea_shop_reports.html
+      output: web, pdf
+
+    - title: Configuration
+      url: /ea_shop_configuration.html
       output: web, pdf
 
   - title: Individual Market

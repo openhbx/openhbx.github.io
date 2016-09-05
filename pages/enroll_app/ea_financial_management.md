@@ -15,3 +15,12 @@ Our system calculates member-level age-based premiums for all medical and dental
 Invoices are available electronically to employers, brokers, and general agencies.  Invoices are mailed to the employer.
 
 Quotes are generated and distributed electronically, with the ability to download as PDF or spreadsheet currently in development.
+
+The system generates one invoice for employers regardless of how many different carriers or different types of medical or dental plans the employer chooses to offer. 
+
+## Lockbox Management
+
+Wells Fargo’s system allows us to manage lockbox payments, download reports of lockbox payments, and review images of all lockbox payments. We are currently in the process of automating processing of lockbox payment file feeds directly into the NFP financial management system.
+
+## Online Premium Payment
+

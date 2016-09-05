@@ -23,16 +23,16 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Overview12
-      url: /ea_landing_page.html
+    - title: Overview
+      url: /ops_landing_page.html
       output: web
 
-  - title: Simple Workflow34
+  - title: Ops Stuff
     output: web, pdf
     folderitems:
 
-    - title: Sample 1
-      url: /p2_sample1.html
+    - title: Release Management
+      url: /ops_release_management.html
       output: web, pdf
 
     - title: Sample 2

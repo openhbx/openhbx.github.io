@@ -27,16 +27,16 @@ entries:
       url: /hix_landing_page.html
       output: web
 
-  - title: Simple Workflow1212
+  - title: EDI
     output: web, pdf
     folderitems:
 
-    - title: Sample 1
-      url: /p2_sample1.html
+    - title: Overview
+      url: /hix_overview.html
       output: web, pdf
 
-    - title: Sample 2
-      url: /p2_sample2.html
+    - title: Benefit Enrollment
+      url: /hix_benefit_enrollment.html
       output: web, pdf
 
     - title: Sample 3
