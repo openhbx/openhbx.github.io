@@ -12,6 +12,8 @@ DC Health Link SHOP market includes small employers with 50 or fewer employees a
 
 ## Background
 
+![cots](/images/cots.jpg)
+
 DC Health Link’s first generation system consisted of several Commercial Off-the-Shelf (COTS) applications.  A large systems' integrator was engaged to ensure these dissimilar systems would be able to communicate and function together transparently to our customers.  DC Health Link opened for business on time October 1, 2013 for both SHOP and individual marketplace customers.
 
 Not long after the system launched, it became apparent that the task of integrating dissimilar COTS applications, with all of their complexities and proprietary elements, was going to be much more challenging than had been anticipated. These experiences were not unique to DC Health Link.  The story is very similar to many other state-based exchanges that launched using COTS systems. Integration delays, deployment issues, and lack of scalability are common issues our customers experienced due to limited design and infrastructure.
