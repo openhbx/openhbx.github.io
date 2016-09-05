@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: acapi
-  version: 0.4
+  product: API
+  version: 2.0
   folders:
 
   - title:

@@ -23,70 +23,106 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Overview12
+    - title: Overview
       url: /ea_landing_page.html
-      output: web
+      output: web, pdf
 
-  - title: Simple Workflow34
+  - title: Shared Functionality
     output: web, pdf
     folderitems:
 
-    - title: Sample 1
-      url: /p2_sample1.html
+    - title: Overview
+      url: /ea_common_functionality.html
       output: web, pdf
 
-    - title: Sample 2
-      url: /p2_sample2.html
+    - title: Plan Management
+      url: /ea_plan_management.html
       output: web, pdf
 
-    - title: Sample 3
-      url: /p2_sample3.html
+    - title: Notices
+      url: /ea_notices.html
       output: web, pdf
 
-    - title: Sample 4
-      url: /p2_sample4.html
+    - title: Document Management
+      url: /ea_document_management.html
       output: web, pdf
 
-    - title: Sample 5
-      url: /p2_sample5.html
+    - title: Administration
+      url: /ea_administration.html
       output: web, pdf
 
-  - title: Complex Workflow
+    - title: Configuration
+      url: /ea_configuration.html
+      output: web, pdf
+
+    - title: Security
+      url: /ea_security.html
+      output: web, pdf
+
+  - title: SHOP Market
     output: web, pdf
     folderitems:
 
-    - title: Sample 6
-      url: /p2_sample6.html
+    - title: Overview
+      url: /ea_shop_market.html
       output: web, pdf
 
-    - title: Sample 7
-      url: /p2_sample7.html
+    - title: Employers
+      url: /ea_employers.html
       output: web, pdf
 
-    - title: Sample 8
-      url: /p2_sample8.html
+    - title: Employees
+      url: /ea_employees.html
       output: web, pdf
 
-    - title: Sample 9
-      url: /p2_sample9.html
+    - title: Special Enrollment Periods
+      url: /ea_shop_seps.html
       output: web, pdf
 
-    - title: Sample 10
-      url: /p2_sample10.html
+    - title: Brokers
+      url: /ea_shop_brokers.html
       output: web, pdf
 
-    - title: Sample 11
-      url: /p2_sample11.html
+    - title: General Agents
+      url: /ea_general_agents.html
       output: web, pdf
 
-    - title: Sample 12
-      url: /p2_sample12.html
+    - title: Employer Group Files
+      url: /ea_employer_group_files.html
       output: web, pdf
 
-    - title: Sample 13
-      url: /p2_sample13.html
+    - title: SHOP Reports
+      url: /ea_shop_reports.html
       output: web, pdf
 
-    - title: Sample 14
-      url: /p2_sample14.html
+  - title: Individual Market
+    output: web, pdf
+    folderitems:
+
+    - title: Overview
+      url: /ea_ivl_market.html
+      output: web, pdf
+
+    - title: Registration
+      url: /ea_ivl_registration.html
+      output: web, pdf
+
+    - title: Eligibility
+      url: /ea_ivl_eligibility.html
+      output: web, pdf
+
+    - title: Assistance
+      url: /ea_ivl_plan_shopping.html
+      output: web, pdf
+
+    - title: Plan Shopping
+      url: /ea_ivl_plan_shopping.html
+      output: web, pdf
+
+    - title: Open Enrollment
+      url: /ea_ivl_open_enrollment.html
+      output: web, pdf
+
+    - title: Special Enrollment Periods
+      url: /ea_ivl_seps.html
       output: web, pdf

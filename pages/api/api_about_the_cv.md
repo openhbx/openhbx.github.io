@@ -1,16 +1,16 @@
 ---
-title: About the CV
-keywords: [canonical vocabulary api application program interface affordable care act]
+title: Canonical Vocabulary
+keywords: canonical vocabulary, api, affordable care act, application program interface
+tags: []
 sidebar: api_sidebar
-summary: "Controlled vocabularies rule!"
+summary: "A Standard Health Benefit Exchange Canonical Vocabulary"
 permalink: api_about_the_cv.html
 folder: api
 ---
 
-A Standard Health Benefit Exchange Canonical Vocabulary
-==
+The ACApi Canonical Vocabulary (CV) is a controlled vocabulary for Health Benefit Exchanges (HBX's). It's scope includes both a formal taxonomy of HBX resources and terms, plus a schema for exchanging information between applications and organizations, using RESTful Web services and popular messaging protocols.  
 
-This Canonical Vocabulary (CV) defines a reusable information model standard for Health Benefit Exchanges (HBX's). It specifies HBX data elements, defining their semantic meaning, data types and value ranges. For each HBX resource type, the CV enumerates triggers or events, as a basis for system services to notify one another when a business event has ocurred. The CV also defines a message schema for passing information between applications and organizations using RESTful Web services and popular messaging protocols.  
+It specifies HBX data resources, defining their semantic meaning, data types and value ranges. For each HBX resource type, the CV enumerates events that notify listening system services when an instance is created or updated. The CV also defines a message schema for passing information between applications and organizations 
 
 The HBX CV information model covers the following areas:
 
@@ -19,7 +19,7 @@ The HBX CV information model covers the following areas:
 * Qualified Life Events (QLE's) and Special Enrollment Periods (SEPs) for QHP and SHOP
 * Household income and Advanced Premium Tax Credit (APTC) eligibility determinations
 * Insurance issuers and plans
-* Employer demographics
+* Employer group demographics
 * Broker demographics
 * Payments due, invoices and statements
 * Premium payment advice/remittance

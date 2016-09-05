@@ -14,6 +14,11 @@ topnav:
     - title: News
       url: /news
 
+- title: Topnav
+  items:
+    - title: Community
+      external_url: http://www.openhbx.org
+
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
@@ -26,11 +31,6 @@ topnav_dropdowns:
         url: /arch_info_model_page.html
       - title: Development Process
         url: /proc_landing_page.html
-
-- title: Topnav
-  items:
-    - title: Community
-      external_url: http://www.openhbx.org
 
 
 #Topnav dropdowns
