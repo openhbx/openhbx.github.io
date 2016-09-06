@@ -1,10 +1,10 @@
 ---
 title: Release Management
 keywords: software development lifecycle sdlc
-sidebar: proc_sidebar
+sidebar: dpb_sidebar
 toc: false
-permalink: proc_release_management.html
-folder: proc
+permalink: dpb_release_management.html
+folder: playbook
 ---
 Coordinating contributions from dozens of developers, the DCHBX team oversees a structured, automated code management process, subject to rigorous quality assurance.  Following is an overview of the development and release management process.
 

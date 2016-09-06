@@ -1,0 +1,63 @@
+entries:
+- title: sidebar
+  product: Design
+  version: 0.1
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+
+    - title:
+      url: /titlepage
+      output: pdf
+      type: frontmatter
+
+    - title:
+      url: /tocpage
+      output: pdf
+      type: frontmatter
+
+  - title: Introduction
+    output: web, pdf
+    folderitems:
+
+    - title: Overview
+      url: /design_landing_page.html
+      output: web, pdf
+
+  - title: Architecture
+    output: web, pdf
+    folderitems:
+
+    - title: Event-driven SOA
+      url: /design_soa.html
+      output: web, pdf
+
+  - title: Information Model
+    output: web, pdf
+    folderitems:
+
+    - title: Family Model
+      url: /design_family_model.html
+      output: web, pdf
+
+    - title: Employer Model
+      url: /design_employer_model.html
+      output: web, pdf
+
+    - title: Person Model
+      url: /design_person_model.html
+      output: web, pdf
+
+    - title: Organization Model
+      url: /design_organization_model.html
+      output: web, pdf
+
+    - title: Workflow
+      url: /design_workflow.html
+      output: web, pdf
+
+
+

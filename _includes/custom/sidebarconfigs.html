@@ -13,11 +13,11 @@
 {% elsif page.sidebar == "ops_sidebar" %}
 {% assign sidebar = site.data.sidebars.ops_sidebar.entries %}
 
-{% elsif page.sidebar == "proc_sidebar" %}
-{% assign sidebar = site.data.sidebars.proc_sidebar.entries %}
+{% elsif page.sidebar == "dpb_sidebar" %}
+{% assign sidebar = site.data.sidebars.dpb_sidebar.entries %}
 
-{% elsif page.sidebar == "arch_sidebar" %}
-{% assign sidebar = site.data.sidebars.arch_sidebar.entries %}
+{% elsif page.sidebar == "design_sidebar" %}
+{% assign sidebar = site.data.sidebars.design_sidebar.entries %}
 
 {% elsif page.sidebar == "news_sidebar" %}
 {% assign sidebar = site.data.sidebars.news_sidebar.entries %}
@@ -40,7 +40,7 @@ sidebar configuration for print files
 {% assign sidebar_pdf = site.data.sidebars.hix_app_sidebar.entries %}
 {% endif %}
 
-{% if site.product == "acapi" %}
+{% if site.product == "api" %}
 {% assign sidebar_pdf = site.data.sidebars.api_sidebar.entries %}
 {% endif %}
 
@@ -48,10 +48,10 @@ sidebar configuration for print files
 {% assign sidebar_pdf = site.data.sidebars.ops_sidebar.entries %}
 {% endif %}
 
-{% if site.product == "process" %}
-{% assign sidebar_pdf = site.data.sidebars.proc_sidebar.entries %}
+{% if site.product == "playbook" %}
+{% assign sidebar_pdf = site.data.sidebars.dpb_sidebar.entries %}
 {% endif %}
 
-{% if site.product == "architecture" %}
-{% assign sidebar_pdf = site.data.sidebars.arch_sidebar.entries %}
+{% if site.product == "design" %}
+{% assign sidebar_pdf = site.data.sidebars.design_sidebar.entries %}
 {% endif %}

@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar 
-  product: Process
+  product: Playbook
   version: 0.1
   folders:
 
@@ -24,39 +24,47 @@ entries:
     folderitems:
 
     - title: Overview
-      url: /hix_landing_page.html
+      url: /dpb_landing_page.html
       output: web
+
+  - title: See the Whole
+    output: web, pdf
+    folderitems:
+
+    - title: Development Workflow
+      url: /dpb_dev_workflow.html
+      output: web, pdf
 
   - title: Stakeholders as Co-Developers
     output: web, pdf
     folderitems:
 
     - title: Development Workflow
-      url: /proc_dev_workflow.html
+      url: /dpb_dev_workflow.html
       output: web, pdf
 
     - title: Use Cases 
-      url: /proc_use_cases.html
+      url: /dpb_use_cases.html
       output: web, pdf
 
     - title: User Stories 
-      url: /proc_user_stories.html
+      url: /dpb_user_stories.html
       output: web, pdf
 
     - title: Peer Review 
-      url: /proc_peer_review.html
+      url: /dpb_peer_review.html
       output: web, pdf
 
-  - title: Iterative Development
+  - title: Agile Development
     output: web, pdf
     folderitems:
 
     - title: Lean Process 
-      url: /proc_lean_process.html
+      url: /dpb_lean_process.html
       output: web, pdf
 
     - title: Spiral Development
-      url: /proc_spiral_development.html
+      url: /dpb_spiral_development.html
       output: web, pdf
 
   - title: Build Integrity In
@@ -64,11 +72,35 @@ entries:
     folderitems:
 
     - title: Behavior Driven Development 
-      url: /proc_bdd.html
+      url: /dpb_bdd.html
       output: web, pdf
 
     - title: Automated Regression Tests
-      url: /proc_regression_tests.html
+      url: /dpb_regression_tests.html
+      output: web, pdf
+
+  - title: Modern Technology Stack
+    output: web, pdf
+    folderitems:
+
+    - title: Ruby on Rails 
+      url: /dpb_ror.html
+      output: web, pdf
+
+    - title: MongoDB 
+      url: /dpb_mongodb.html
+      output: web, pdf
+
+    - title: AMQP
+      url: /dpb_amqp.html
+      output: web, pdf
+
+    - title: nginx
+      url: /dpb_nginx.html
+      output: web, pdf
+
+    - title: Linux
+      url: /dpb_linux.html
       output: web, pdf
 
   - title: Development Workbench
@@ -76,19 +108,19 @@ entries:
     folderitems:
 
     - title: Feature and Issue Tracking 
-      url: /proc_feature_tracking.html
+      url: /dpb_feature_tracking.html
       output: web, pdf
 
     - title: Version Control System 
-      url: /proc_version_control_system.html
+      url: /dpb_version_control_system.html
       output: web, pdf
 
     - title: Continuous Integration
-      url: /proc_continuous_integration.html
+      url: /dpb_continuous_integration.html
       output: web, pdf
 
     - title: Development Environments 
-      url: /proc_dev_environments.html
+      url: /dpb_dev_environments.html
       output: web, pdf
 
 

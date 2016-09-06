@@ -1,14 +1,14 @@
 ---
-title: Architecture Overview
+title: Design Overview
 keywords: architecture soa system design
-sidebar: arch_sidebar
+sidebar: design_sidebar
 toc: false
-permalink: arch_landing_page.html
-folder: architecture
+permalink: design_landing_page.html
+folder: design
 ---
 
 
-# Extension
+## Extension
 
 The Enroll Application is purposely designed and applies the following technical patterns for extension and customization at multiple system levels:
 

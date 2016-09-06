@@ -13,8 +13,12 @@ entries:
       url: /index.html
       output: web
 
-    - title: Site Author
-      url: /about_ideacrew.html
+    - title: About IdeaCrew
+      url: /home_about_ideacrew.html
+      output: web, pdf
+
+    - title: About DCHBX
+      url: /home_about_dchbx.html
       output: web, pdf
 
   - title: Development Plan
@@ -37,20 +41,16 @@ entries:
       url: /hix_landing_page.html
       output: web
 
+    - title: Design
+      url: /design_landing_page.html
+      output: web
+
     - title: API
       url: /api_landing_page.html
       output: web
 
     - title: DevOps
       url: /ops_landing_page.html
-      output: web
-
-    - title: Architecture
-      url: /arch_landing_page.html
-      output: web
-
-    - title: Process
-      url: /proc_landing_page.html
       output: web
 
     - title: News
