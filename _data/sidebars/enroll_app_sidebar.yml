@@ -32,7 +32,7 @@ entries:
     folderitems:
 
     - title: Overview
-      url: /ea_common_functionality.html
+      url: /ea_shared_functionality.html
       output: web, pdf
 
     - title: Plan Management
