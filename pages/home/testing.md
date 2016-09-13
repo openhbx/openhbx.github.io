@@ -1,2 +1,2 @@
-This is David here showing Jack how awesome he is!!
+This is David show Jack how the docs site works.
 
