@@ -14,7 +14,24 @@ This project is designed to address mission-critical dependencies that currently
 When launched in 2017, the new open source solution for Electronic Data Integration transactions (EDI) and a new, open source B2B gateway, will eliminate performance risks by hosting the B2B Gateway in the Amazon cloud, and will subsequently save the DCHBX millions of dollars in the coming years by eliminating costly proprietary software maintenance and licensing fees.
 
 ## One Big SHOP
-The primary focus of One Big SHOP is to transition thousands employer groups to renew coverage through DC Health Link.  This includes working with brokers and data exchanges with carriers to ensure transition and renewal are seemless to the employers and their employees.   This also includes carrier-specific EDI customizations including the addition of detailed SEP and termination reason codes. 
+The primary focus of One Big SHOP is to transition thousands of employer groups to renew coverage through DC Health Link.  This includes working with brokers and data exchanges with carriers to ensure transition and renewal are seemless to the employers and their employees.   This also includes carrier-specific EDI customizations including the addition of detailed SEP and termination reason codes. 
+
+## Financial Management Tools
+The OpenHBX development roadmap for 2016-2017 includes a comprehensive suite of financial management tools that enhance and extend core mission technology systems, and deliver significant value to the DCHBX.  The financial management tool set includes:
+
+* General Ledger (GL) support, double-entry accounting and record-keeping tools
+
+* Premium billing and payment capabilities include premium allocation, employer billing, carrier remittance, journaling, invoices, statements, generation of EDI 820s, and comprehensive internal controls and transaction tracking capabilities
+
+* Ability for authorized DCHBX administrative personnel to manage transactions between the DCHBX bank and a third-party premium aggregator, and track remittances to carriers
+
+* Self-Service billing inquiries &amp; payment functions will enable small business employers subscribed to the system to establish one-time and recurring payments, import invoices and statements into their account as well as view their account status, amount due and other details online. This functionality will also provide brokers with the ability to access client invoices (past and present)
+
+* Integration of aggregated billing for medical, dental, and other plans across carriers into the Enroll Application will provide employer groups with consolidated billing invoices
+
+* Invoice functionality also extends to generating payment confirmations, reminders and other financial notices
+
+* Advanced Employer/Employee COBRA functionality
 
 ## QHP Integration
 The QHP Integration project focuses primarily on the Individual Marketplace. Projects include:
