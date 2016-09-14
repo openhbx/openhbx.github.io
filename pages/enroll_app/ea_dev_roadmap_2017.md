@@ -42,6 +42,16 @@ The QHP Integration project focuses primarily on the Individual Marketplace. Pro
 
 * Benefit purchase shopping cart which will provide users with an Amazon-like commercial shopping experience.
 
+## HBX Core Reporting and Documentation
+
+This project will establish a library of data-driven, core-mission reports and dashboards for the DCHBX. Statistical analyses will be conducted to identify quality attributes for the Exchange, establish baselines and determine metrics for reporting Key Performance Indicators (KPI).   KPIs will form the basis of a DCHBX &#39;Vital Signs&#39; report and corresponding set of online dashboards for use by DCHBX management, EDI Operations, and directors of SHOP, Individual and Plan Management marketplaces.  This project will provide the following benefits:
+
+* Development of a series of online core-mission reports
+* Report generation using current and historical data
+* Ability for DCHBX leadership to monitor key performance indicators (KPI) for better informed decision making
+* Plan Benefits watch – enables regulators and policy teams to monitor issuer compliance with plan benefit offerings
+* Data-driven approach enables identification of trends in plan benefits and rates
+
 ## UI and Consumer Decision Support Tools
 We continue to focus on enhancing web-page features and usability as well as adding additional consumer decision support tools.  Plan Match (powered by Consumers’ CHECKBOOK) helps DC Health Link individual market customers estimate annual out of pocket costs and see plans that cover particular doctors. We just recently deployed a new prescription drug look up feature that enables customers using Plan Match to include their prescription medication in the plan comparison. We beta tested Plan Match on our congressional customers last year and are looking forward to rolling out this tool to all of SHOP customers in 2017.
 
