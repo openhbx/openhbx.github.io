@@ -1,10 +1,10 @@
 ---
 title: Process Overview
 keywords: process
-sidebar: proc_sidebar
+sidebar: dpb_sidebar
 toc: false
-permalink: proc_landing_page.html
-folder: proc
+permalink: dpb_landing_page.html
+folder: playbook
 ---
 # Open_HBX Digital Playbook
 
