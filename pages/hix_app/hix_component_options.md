@@ -7,7 +7,7 @@ permalink: hix_app_hix_component_options.html
 folder: hix_app
 ---
 ## Solution Component Options
-DC Health Link&#39;s software suite is an open source, built-to-purpose system designed, developed and architected by DC Health Link&#39;s Application Development (AppDev) team.  HIX Community member partners will be able to enjoy the samehigh-performing, reliable, and scalable solution as DC Health Link.
+DC Health Link&#39;s software suite is an open source, built-to-purpose system designed, developed and architected by DC Health Link&#39;s Application Development (AppDev) team.  HIX Community member partners will be able to enjoy the same high-performing, reliable, and scalable solution as DC Health Link.
 
 The following components of DC Health Link&#39;s software suite are available to HIX Community partners:
 
