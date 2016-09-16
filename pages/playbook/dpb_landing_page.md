@@ -6,9 +6,9 @@ toc: false
 permalink: dpb_landing_page.html
 folder: playbook
 ---
--> # Open_HBX Digital Playbook <-
+# Open_HBX Digital Playbook 
 
-![Digital Playbook](/images/Digital Playbook.png){: .center-image }
+![Digital Playbook](/images/Digital Playbook.png)
 
 
  
