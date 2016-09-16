@@ -8,7 +8,7 @@ folder: playbook
 ---
 # Open_HBX Digital Playbook
 
-![alt text](openhbx.github.io/images/Digital playbook.png)
+![Digital Playbook](/images/Digital Playbook.png)
 
 
  
