@@ -14,7 +14,7 @@ This project is designed to address mission-critical dependencies that currently
 When launched in 2017, the new open source solution for Electronic Data Integration transactions (EDI) and a new, open source B2B gateway, will eliminate performance risks by hosting the B2B Gateway in the Amazon cloud, and will subsequently save the DCHBX millions of dollars in the coming years by eliminating costly proprietary software maintenance and licensing fees.
 
 ## One Big SHOP
-The primary focus of One Big SHOP is to transition thousands of employer groups to renew coverage through DC Health Link.  This includes working with brokers and data exchanges with carriers to ensure transition and renewal are seemless to the employers and their employees.   This also includes carrier-specific EDI customizations including the addition of detailed SEP and termination reason codes. 
+The primary focus of One Big SHOP is to transition thousands of employer groups to renew coverage through DC Health Link.  This includes working with brokers and data exchanges with carriers to ensure transition and renewal are seamless to the employers and their employees.   This also includes carrier-specific EDI customizations including the addition of detailed SEP and termination reason codes. 
 
 ## Financial Management Tools
 The OpenHBX development roadmap for 2016-2017 includes a comprehensive suite of financial management tools that enhance and extend core mission technology systems, and deliver significant value to the DCHBX.  The financial management tool set includes:
