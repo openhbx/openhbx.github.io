@@ -57,8 +57,12 @@ entries:
       url: /news.html
       output: web
 
-    - title: Peer Review
+    - title: Peer Reviews
       url: /peer_review.html
+      output: web
+
+    - title: Pull Requests
+      url: /pull_request.html
       output: web
 
     - title: Theme instructions
